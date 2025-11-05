@@ -1,0 +1,608 @@
+Uri: https://acdn.mitiendanube.com/assets/themes/recife/static/images/empty-placeholder.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\assets\themes\recife\static\images\empty-placeholder.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/disable-devtool
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\npm\disable-devtool
+Content Type: application/javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\roboto\v49\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://shopeeoficialbrasil.netlify.app/
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://shopeeoficialbrasil.netlify.app/00.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\00.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/1.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\1.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/11.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\11.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/2.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\2.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/22.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\22.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/3.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\3.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/33.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\33.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/4.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\4.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/44.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\44.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/5.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\5.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/6.webp
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\6.webp
+Content Type: image/webp
+
+Uri: https://shopeeoficialbrasil.netlify.app/66.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\66.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/7.jpg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\7.jpg
+Content Type: image/jpeg
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/default-skin.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\default-skin.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/e-swiper.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/frontend.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/frontend.min_1.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\frontend.min_1.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/general.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\general.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/global.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\global.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/header-footer.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\header-footer.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/photoswipe.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/post-20.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\post-20.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/post-5.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\post-5.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/style.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\style.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/theme.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\theme.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/wc-blocks.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\wc-blocks.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/widget-countdown.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\widget-countdown.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/widget-divider.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/widget-heading.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/widget-image-carousel.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/widget-image.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/widget-rating.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\widget-rating.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/widget-text-editor.min.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/woocommerce-layout.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/woocommerce-smallscreen.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/css/woocommerce.css
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://shopeeoficialbrasil.netlify.app/fonts/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\fonts\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://shopeeoficialbrasil.netlify.app/fonts/Inter-VariableFont_slnt%2Cwght.woff2
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://shopeeoficialbrasil.netlify.app/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://shopeeoficialbrasil.netlify.app/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\fonts\WooCommerce.woff
+Content Type: application/font-woff
+
+Uri: https://shopeeoficialbrasil.netlify.app/fonts/WooCommerce.woff2
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\fonts\WooCommerce.woff2
+Content Type: font/woff2
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/amex.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-nota-1024x242.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-nota-1024x242.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-nota-300x71.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-nota-300x71.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-nota-600x142.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-nota-600x142.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-nota-768x182.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-nota-768x182.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-nota.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-nota.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-vend-1024x100.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-vend-1024x100.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-vend-300x29.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-vend-300x29.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-vend-600x58.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-vend-600x58.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-vend-768x75.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-vend-768x75.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/aval-vend.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\aval-vend.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/blank-profile-picture-973460_640-100x100.webp
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\blank-profile-picture-973460_640-100x100.webp
+Content Type: image/webp
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/blank-profile-picture-973460_640-150x150.webp
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\blank-profile-picture-973460_640-150x150.webp
+Content Type: image/webp
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/blank-profile-picture-973460_640-300x300.webp
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\blank-profile-picture-973460_640-300x300.webp
+Content Type: image/webp
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/blank-profile-picture-973460_640-600x600.webp
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\blank-profile-picture-973460_640-600x600.webp
+Content Type: image/webp
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/blank-profile-picture-973460_640.webp
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\blank-profile-picture-973460_640.webp
+Content Type: image/webp
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/cart.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\cart.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/chat.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\chat.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/default-skin.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\default-skin.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/default-skin.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/diners.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/discover.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/jcb.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/laser.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/loader.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/Logo Shopee White-d247f0f6.webp
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\Logo Shopee White-d247f0f6.webp
+Content Type: image/webp
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/logolar-100x100.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\logolar-100x100.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/logolar-1024x1021.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\logolar-1024x1021.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/logolar-150x150.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\logolar-150x150.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/logolar-300x300.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\logolar-300x300.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/logolar-600x598.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\logolar-600x598.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/logolar-768x766.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\logolar-768x766.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/logolar.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\logolar.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/maestro.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/mastercard.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/preloader.gif
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/promo-relampago-300x34.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\promo-relampago-300x34.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/promo-relampago.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\promo-relampago.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/Rev-1024x61.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\Rev-1024x61.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/Rev-300x18.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\Rev-300x18.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/Rev-600x36.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\Rev-600x36.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/Rev-768x45.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\Rev-768x45.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/Rev.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\Rev.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/truck.png
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\truck.png
+Content Type: image/png
+
+Uri: https://shopeeoficialbrasil.netlify.app/images/visa.svg
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\images\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/add-to-cart-variation.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/add-to-cart.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/core.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\core.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/elements-handlers.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/frontend.min_1.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\frontend.min_1.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/general.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\general.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/gtm.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\gtm.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/hello-frontend.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/hooks.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/i18n.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/jquery.flexslider.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/jquery.zoom.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/order-attribution.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\order-attribution.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/photoswipe-ui-default.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/photoswipe.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/single-product.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/sourcebuster.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\sourcebuster.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/underscore.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/webpack-pro.runtime.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/woocommerce.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/wp-emoji-release.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\wp-emoji-release.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/js/wp-util.min.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://shopeeoficialbrasil.netlify.app/kordt.js
+File Name: C:\Downloaded Web Sites\shopeeoficialbrasil.netlify.app\kordt.js
+Content Type: application/javascript
+
